@@ -4,7 +4,7 @@ Discover a groundbreaking narrative-driven AI experience, seamlessly blending th
 
 Uniqueness:
 
-Embark on a journey through the Whispering Woods, where your choices shape the destiny of the traveler, Suri. Unlike traditional games, our project goes beyond scripted paths, offering an unparalleled, personalized adventure with branching narratives and consequences tailored to each decision.
+Embark on a journey through the Whispering Woods, where your choices shape the destiny of the traveler, Sure. Unlike traditional games, our project goes beyond scripted paths, offering an unparalleled, personalized adventure with branching narratives and consequences tailored to each decision.
 
 Revolutionizing AI:
 
