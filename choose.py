@@ -14,8 +14,8 @@ with open("choose_your_own_adventure-token.json") as f:
 
 CLIENT_ID = secrets["clientId"]
 CLIENT_SECRET = secrets["secret"]
-ASTRA_DB_KEYSPACE = "default_keyspace"
-OPENAI_API_KEY = "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"
+ASTRA_DB_KEYSPACE = ""
+OPENAI_API_KEY = "Thoda Paisa Tum Bhi Kharch Lo"
 
 auth_provider = PlainTextAuthProvider(CLIENT_ID, CLIENT_SECRET)
 cluster = Cluster(cloud=cloud_config, auth_provider=auth_provider)
@@ -37,11 +37,11 @@ cass_buff_memory = ConversationBufferMemory(
 
 template = """
 You are now the guide of a mystical journey in the Whispering Woods.
-A traveler named Suri seeks the lost Gem of Serenity.
+A traveler named Sure seeks the lost Gem of Serenity.
 You must navigate her through challenges, choices, and consequences,
 dynamically adapting the tale based on the traveler's decisions.
 Your goal is to create a branching narrative experience where each choice
-leads to a new path, ultimately determining Suri's fate.
+leads to a new path, ultimately determining Sure's fate.
 
 Here are some rules to follow:
 1. Start by asking the player to choose some kind of weapons that will be used later in the game
